@@ -1,0 +1,1 @@
+{"config":{"lang":["pt"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"ensaios/marmaid/","title":"marmaid","text":"<pre><code>graph LR\n    hello --&gt; world\n    world --&gt; again\n    again --&gt; hello\n</code></pre>"}]}
